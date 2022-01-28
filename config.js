@@ -1,9 +1,9 @@
 module.exports = {
-    token: 'OTM2Njc1MDgyNzEyMDE0ODU4.YfQopg.0OI6g9nal0m6Q3cbAOzRzXaBgJM',
+    token: 'LE TOKEN DE TON BOT',
     prefix: '+',
-    owners: ['922106161153585174', '548028946097111045'],
+    owners: ['TON ID'],
     database: {
-        name: 'opensourcebot',
-        password: 'neyfox15'
+        name: 'LE NOM DE TA BASE DE DONNEE',
+        password: 'LE MOT DE PASSE DE TA BASE DE DONNEE'
     }
 }
